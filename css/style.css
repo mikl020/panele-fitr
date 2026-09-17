@@ -31,3 +31,7 @@ body{
     background-color: #20109a;
     color: #fff;
 }
+.active{
+    background-color: #2b0981;
+    color: #fff;
+}
