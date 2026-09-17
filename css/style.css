@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url('./fonts/InterRegular.woff2');
+    font-style: normal;
+    font-weight: normal;
+}
+body{
+    /* margin: 0; */
+    font-family: "Inter", sans-serif;
+    background-color: #353535;
+}
+.filtr{
+    display: flex;
+    align-items: center;
+    width: 448px;
+    height: 75px;
+    border-radius: 16px;
+    padding: 16px;
+    gap: 12px;
+    background-color: #fff;
+}
+.compaun{
+    padding: 12px 24px;
+    border: 1px solid #E5E7EB;
+    border-radius: 12px;
+}
+.compaun:hover{
+    background-color: #20109a;
+    color: #fff;
+}
