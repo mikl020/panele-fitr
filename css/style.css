@@ -26,12 +26,19 @@ body{
     padding: 12px 24px;
     border: 1px solid #E5E7EB;
     border-radius: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+   
+
 }
 .compaun:hover{
     background-color: #20109a;
     color: #fff;
 }
 .active{
-    background-color: #2b0981;
+    background-color: #11017a;
+    border: 0;
     color: #fff;
 }
